@@ -1,0 +1,38 @@
+{
+  "application": {
+    "name": "Educational WiFi Monitor",
+    "version": "1.0.0",
+    "educational_mode": true,
+    "debug": false
+  },
+  "scanning": {
+    "default_interface": "wlan0",
+    "scan_timeout": 30,
+    "passive_scan": true,
+    "channel_hopping": false
+  },
+  "display": {
+    "show_hidden_networks": true,
+    "show_educational_tips": true,
+    "colored_output": true,
+    "max_networks_display": 50
+  },
+  "security": {
+    "require_ethical_consent": true,
+    "log_activities": true,
+    "educational_warnings": true,
+    "vulnerability_scanning": false
+  },
+  "output": {
+    "save_results": true,
+    "results_directory": "results",
+    "reports_directory": "reports",
+    "logs_directory": "logs"
+  },
+  "learning": {
+    "interactive_mode": true,
+    "provide_explanations": true,
+    "security_education": true,
+    "show_recommendations": true
+  }
+}

@@ -1,0 +1,68 @@
+EDUCATIONAL WIFI MONITOR - LEGAL DISCLAIMER AND TERMS OF USE
+
+IMPORTANT LEGAL NOTICE - READ CAREFULLY BEFORE USE
+
+This software is provided for EDUCATIONAL PURPOSES ONLY. By using this tool, you agree to the following terms and conditions:
+
+1. LEGAL COMPLIANCE
+   - You must comply with all applicable local, state, and federal laws
+   - Unauthorized network scanning may be illegal in your jurisdiction
+   - You are responsible for understanding and following applicable laws
+
+2. AUTHORIZATION REQUIREMENTS
+   - Only use on networks you own or control
+   - Obtain explicit written permission before testing third-party networks
+   - Testing without authorization may constitute a criminal offense
+
+3. EDUCATIONAL PURPOSE
+   - This tool is designed for learning cybersecurity concepts
+   - It should be used to understand network security, not exploit it
+   - Commercial use is not authorized under this license
+
+4. PROHIBITED ACTIVITIES
+   - Accessing networks without explicit permission
+   - Attempting to crack passwords or encryption
+   - Using this tool for malicious purposes
+   - Circumventing security measures without authorization
+   - Any illegal surveillance or monitoring activities
+
+5. LIMITATION OF LIABILITY
+   - This software is provided "AS IS" without warranty
+   - Users assume all risks associated with its use
+   - Developers are not liable for any damages or legal consequences
+   - Users are responsible for any misuse of this tool
+
+6. RESPONSIBLE DISCLOSURE
+   - Any vulnerabilities discovered must be reported responsibly
+   - Do not publicly disclose vulnerabilities without proper coordination
+   - Follow ethical hacking and responsible disclosure practices
+
+7. PRIVACY AND DATA PROTECTION
+   - Respect privacy rights of network owners and users
+   - Do not collect, store, or misuse personal information
+   - Comply with data protection regulations (GDPR, CCPA, etc.)
+
+8. ETHICAL REQUIREMENTS
+   - Use this tool ethically and professionally
+   - Do not harm networks, systems, or users
+   - Maintain the highest standards of professional conduct
+   - Stop immediately if requested by network owners
+
+9. JURISDICTION
+   - These terms are governed by applicable local laws
+   - Users are subject to the laws of their jurisdiction
+   - International users must comply with their local regulations
+
+10. UPDATES AND MODIFICATIONS
+    - These terms may be updated without notice
+    - Continued use constitutes acceptance of updated terms
+    - Users should regularly review these terms
+
+BY USING THIS SOFTWARE, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTOOD, AND AGREE TO BE BOUND BY THESE TERMS.
+
+If you do not agree with these terms, do not use this software.
+
+For educational support or questions, please consult cybersecurity professionals or academic institutions.
+
+Last Updated: November 2024
+Version: 1.0
